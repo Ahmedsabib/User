@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define int long long
+
+int32_t main() {
+  ios_base::sync_with_stdio(0), cin.tie(0);
+
+  int tests;
+  cin >> tests;
+  for (int cases = 0; cases < tests; ++cases) {
+    // TODO: make sure all variable get reset.
+  }
+  return 0;
+}
+]]></content>
+  <tabTrigger>template</tabTrigger>
+  <description>base</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet>

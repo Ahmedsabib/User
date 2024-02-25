@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+import sys
+import math
+
+from queue import *
+from collections import *
+
+# sys.stdin = open("problemname.in", "r")
+# sys.stdout = open("problemname.out", "w")
+
+if __name__ == '__main__':
+  T = int(input())
+  for _ in range(T):
+    # TODO: make sure all variable get reset.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>template</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
